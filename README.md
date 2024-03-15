@@ -4,12 +4,12 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
 
 # Table Of Content
 
-1. Introduction to Web Accessibility -  [Link](Introduction.md)
+1. [Introduction to Web Accessibility](Introduction.md)
    - Understanding the importance of web accessibility
    - Impact of inaccessible websites on people with disabilities
    - Legal requirements and guidelines (e.g., WCAG)
 
-2. Semantic HTML - [Link](Semantic-html.md)
+2. [Semantic HTML](Semantic-html.md)
    - Importance of semantic markup
    - Proper use of HTML elements for accessibility
    - Semantic structure of a webpage

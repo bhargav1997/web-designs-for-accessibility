@@ -9,7 +9,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Impact of inaccessible websites on people with disabilities
    - Legal requirements and guidelines (e.g., WCAG)
 
-2. Semantic HTML
+2. Semantic HTML - [Link](Semantic-html.md)
    - Importance of semantic markup
    - Proper use of HTML elements for accessibility
    - Semantic structure of a webpage

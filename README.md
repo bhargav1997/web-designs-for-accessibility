@@ -44,7 +44,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Testing accessibility with assistive technology simulators
    - Common accessibility issues and how assistive technologies interpret them
 
-9. Testing and Debugging
+9. [Testing and Debugging](Testing-and-Debugging.md)
    - Tools for testing web accessibility
    - Manual testing techniques
    - Debugging common accessibility issues

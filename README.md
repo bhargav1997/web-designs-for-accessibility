@@ -29,7 +29,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Providing accessible alternatives for non-text content
    - Captioning videos and providing audio descriptions
 
-6. Forms and Interactivity
+6. [Forms and Interactivity](Forms-and-Interactivity.md)
    - Creating accessible forms
    - Associating form labels with inputs
    - Error handling and validation for form accessibility

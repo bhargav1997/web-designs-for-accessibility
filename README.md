@@ -19,7 +19,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Focus management and tabindex
    - Handling keyboard events for interactive elements
 
-4. ARIA (Accessible Rich Internet Applications)
+4. [ARIA (Accessible Rich Internet Applications)](ARIA.md)
    - Introduction to ARIA roles, properties, and states
    - ARIA landmarks for improved navigation
    - Making custom components accessible with ARIA

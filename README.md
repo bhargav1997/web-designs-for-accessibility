@@ -54,7 +54,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
     - Further reading and resources for learning about web accessibility
     - Community and forums for accessibility discussions and support
 
-11. Contributing to Accessibility
+11. [Contributing to Accessibility](Contributing-to-Accessibility.md)
     - How developers can contribute to open-source accessibility projects
     - Guidelines for creating accessible documentation and code
 

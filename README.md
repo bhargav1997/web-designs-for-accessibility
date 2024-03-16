@@ -58,7 +58,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
     - How developers can contribute to open-source accessibility projects
     - Guidelines for creating accessible documentation and code
 
-12. Case Studies and Examples
+12. [Case Studies and Examples](Case-Studies-and-Examples.md)
     - Real-world examples of accessible websites and applications
     - Analysis of accessibility improvements made to existing projects
 

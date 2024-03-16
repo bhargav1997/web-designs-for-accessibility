@@ -1,4 +1,4 @@
-CHere are examples of various ARIA attributes that can be used to enhance accessibility for people with disabilities:
+Here are examples of various ARIA attributes that can be used to enhance accessibility for people with disabilities:
 
 ### 1. ARIA Roles:
 

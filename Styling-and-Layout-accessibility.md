@@ -70,5 +70,3 @@ In this example, we ensure that text elements (`text`) have a sufficient contras
 By incorporating responsive design principles, avoiding reliance on color alone, and ensuring sufficient contrast ratios, we can create websites that are accessible and usable for all users, regardless of their abilities or devices.
 
 ---
-
-Feel free to customize or expand upon this content to suit your teaching objectives!

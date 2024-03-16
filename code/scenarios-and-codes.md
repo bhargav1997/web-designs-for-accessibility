@@ -1,4 +1,4 @@
-Sure, let's explore various scenarios and codes for designing accessible web content:
+Let's explore various scenarios and codes for designing accessible web content:
 
 ### Scenario 1: Adding Alternative Text to Images
 

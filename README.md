@@ -14,7 +14,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Proper use of HTML elements for accessibility
    - Semantic structure of a webpage
 
-3. Keyboard Accessibility
+3. [Keyboard Accessibility](Keyboard-Accessibility.md)
    - Navigating a website using only a keyboard
    - Focus management and tabindex
    - Handling keyboard events for interactive elements

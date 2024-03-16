@@ -39,7 +39,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Avoiding reliance on color alone to convey information
    - Contrast ratios for text and background colors
 
-8. Assistive Technologies
+8. [Assistive Technologies](Keyboard-Accessibility.md)
    - Understanding screen readers and other assistive technologies
    - Testing accessibility with assistive technology simulators
    - Common accessibility issues and how assistive technologies interpret them

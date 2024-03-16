@@ -63,3 +63,6 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
     - Analysis of accessibility improvements made to existing projects
 
 This table of contents covers various aspects of web accessibility, from foundational concepts to practical implementation techniques, testing strategies, and resources for further learning and contribution.
+
+Your instructor: I'm Bhargav Suthar, Gained 4+ years of IT experience. Here I wanted to teach the beginner or those who are willing to learn accessibility in web design, then its perfect for you.
+I did Certification from Linked Course: [CertificateOfCompletion_Accessibility for Web Design.pdf](CertificateOfCompletion_Accessibility_for_Web_Design.pdf)

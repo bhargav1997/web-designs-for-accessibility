@@ -24,7 +24,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - ARIA landmarks for improved navigation
    - Making custom components accessible with ARIA
 
-5. Images and Multimedia
+5. [Images and Multimedia](Images-and-Multimedia.md)
    - Adding alt text for images
    - Providing accessible alternatives for non-text content
    - Captioning videos and providing audio descriptions

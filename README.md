@@ -34,7 +34,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Associating form labels with inputs
    - Error handling and validation for form accessibility
 
-7. Styling and Layout
+7. [Styling and Layout](Styling-and-Layout-accessibility.md)
    - Responsive design for various devices
    - Avoiding reliance on color alone to convey information
    - Contrast ratios for text and background colors

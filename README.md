@@ -49,7 +49,7 @@ GitHub repository aimed at teaching developers how to optimize web designs for a
    - Manual testing techniques
    - Debugging common accessibility issues
 
-10. Best Practices and Resources
+10. [Best Practices and Resources](Best-Practices-and-Resources.md)
     - Accessibility testing tools and browser extensions
     - Further reading and resources for learning about web accessibility
     - Community and forums for accessibility discussions and support
